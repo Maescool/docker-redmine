@@ -1,5 +1,10 @@
 # Changelog
 
+**3.3.1-1**
+- added `IMAP_STARTTLS`, `IMAP_FOLDER`, `IMAP_MOVE_ON_SUCCESS`, `IMAP_MOVE_ON_FAILURE` configuration parameters
+- switch to ruby2.2
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20161217`
+
 **3.3.1**
 - redmine: upgrade to v.3.3.1
 - upgrade baseimage to `sameersbn/ubuntu:14.04.20161014`
