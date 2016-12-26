@@ -1,5 +1,23 @@
 # Changelog
 
+**3.3.1**
+- redmine: upgrade to v.3.3.1
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20161014`
+
+**3.3.0-4**
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20160827`
+
+**3.3.0-3**
+- upgrade `docker-compose.yml` to v2 format
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20160817`
+
+**3.3.0-2**
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20160727`
+
+**3.3.0-1**
+- nginx spdy to http2
+- upgrade baseimage to `sameersbn/ubuntu:14.04.20160710`
+
 **3.3.0**
 - redmine: upgrade to v.3.3.0
 
